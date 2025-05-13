@@ -1,6 +1,6 @@
 {
-  "name": "10xengineer",
-  "version": "1.0.0",
+  "name": "10x-engineer",
+  "version": "1.0.1",
   "description": "for 10x devs",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/LiveLaughShrek/10xEngineer.git"
   },
+    "keywords": [
+    "10x",
+    "Dev",
+    "Engineer"
+  ],
   "author": "dev",
   "license": "ISC",
   "bugs": {
