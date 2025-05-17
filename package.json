@@ -1,6 +1,6 @@
 {
   "name": "10x-engineer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "for 10x devs",
   "main": "index.js",
   "scripts": {
